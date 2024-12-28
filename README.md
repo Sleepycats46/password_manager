@@ -15,6 +15,7 @@ A simple password manager application that securely stores and manages passwords
 ## How to run this program
 
 **Method 1: Run the Program Directly**
+
 I have already packaged the program. You can run the main.exe file directly on your computer.
 
 **Method 2: Manually Install Dependencies and Run the Python Code**
