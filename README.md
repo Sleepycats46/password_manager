@@ -16,7 +16,7 @@ A simple password manager application that securely stores and manages passwords
 
 **Method 1: Run the Program Directly**
 
-I have already packaged the program using PyInstaller. You can run the main.exe file directly on your computer.
+I have already packaged the program using PyInstaller. You can run the **main.exe** file directly on your computer.
 
 **Method 2: Manually Install Dependencies and Run the Python Code**
 - Clone or download the project file
