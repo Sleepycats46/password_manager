@@ -37,7 +37,7 @@ class PasswordManagerModel:
                     "The key has been reset to 'password'。\nPlease change the key immediately!\nAll saved data has been deleted."
                 )
             else:
-                messagebox.showerror("Key reset", "The key has been reset to 'password'.\nPlease change the key immediately!\nAll saved data has been deleted.")
+                messagebox.showerror("Key reset", "The key file is missing'.\nand the program cannot be started.")
                 exit(0)
 
     def ensure_rsa_keys(self):
